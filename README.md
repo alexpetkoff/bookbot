@@ -37,7 +37,8 @@ python3 main.py books/frankenstein.txt
 
 Example output:
 
-`============ BOOKBOT ============
+```
+============ BOOKBOT ============
 Analyzing book found at books/frankenstein.txt...
 ----------- Word Count ----------
 Found 78,566 total words
@@ -46,14 +47,17 @@ a: 4500
 b: 1234
 c: 2345
 ...
-============= END ===============`
+============= END ===============
+```
 
 ## 🛠 Project Structure
 
+```
 .
 ├── main.py # Entry point
 ├── stats.py # Helper functions for stats
 └── README.md # This file
+```
 
 ## 📚 How it works
 
